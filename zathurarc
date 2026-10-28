@@ -1,0 +1,48 @@
+# --- Copy to system clipboard ---
+set selection-clipboard clipboard
+
+# --- Reading Canvas ---
+set default-bg                rgba(18,25,35,1)      # #121923
+set default-fg                rgba(233,234,237,1)    # #e9eaed
+
+# --- Completion Menu ---
+set completion-bg             rgba(28,32,39,1)     # #1c2027
+set completion-fg             rgba(233,234,237,1)
+set completion-highlight-bg   rgba(160,187,227,1)  # #a0bbe3
+set completion-highlight-fg   rgba(12,31,59,1)     # #0c1f3b
+set completion-group-bg       rgba(24,28,34,1)     # #181c22
+set completion-group-fg       rgba(160,187,227,1)
+
+# --- Status / Input Bars ---
+set statusbar-fg              rgba(233,234,237,1)
+set statusbar-bg              rgba(18,21,25,1)     # #121519
+set inputbar-fg               rgba(233,234,237,1)
+set inputbar-bg               rgba(24,28,34,1)     # #181c22
+
+# --- Notifications ---
+set notification-bg           rgba(31,37,45,1)     # #1f252d
+set notification-fg           rgba(233,234,237,1)
+set notification-error-bg     rgba(140,29,24,1)    # #8c1d18
+set notification-error-fg     rgba(249,222,220,1)  # #f9dedc
+set notification-warning-bg   rgba(31,37,45,1)
+set notification-warning-fg   rgba(232,194,106,1)  # #e8c26a
+
+# --- Image/Icon Recoloring ---
+set recolor                   "true"
+set recolor-lightcolor        rgba(18,25,35,1)      # #121923
+set recolor-darkcolor         rgba(233,234,237,1)    # #e9eaed
+
+# --- Index / Selection ---
+set index-fg                  rgba(233,234,237,1)
+set index-bg                  rgba(18,21,25,1)     # #121519
+set index-active-fg           rgba(12,31,59,1)     # #0c1f3b
+set index-active-bg           rgba(160,187,227,1)  # #a0bbe3
+
+# --- Rendering Loading States ---
+set render-loading-bg         rgba(18,21,25,1)     # #121519
+set render-loading-fg         rgba(233,234,237,1)
+
+# --- Highlights ---
+set highlight-color           rgba(160,187,227,0.15) # soft blue overlay
+set highlight-fg              rgba(233,234,237,1)
+set highlight-active-color    rgba(160,187,227,0.3)
