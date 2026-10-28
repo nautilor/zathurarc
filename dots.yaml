@@ -1,0 +1,4 @@
+zathura:
+  zathurarc:
+    source: ./zathurarc
+    destination: ~/.config/zathura/zathurarc
